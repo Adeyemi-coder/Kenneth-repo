@@ -44,10 +44,10 @@ body {
  }
  .aboutme-sec {
    height: 390px;
-   margin-left: 230px;
+   margin-left: 160px;
    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
    border-radius: 10px;
-   width: 1200px;
+   width: 1100px;
    background-color: white;
 
  }
@@ -58,9 +58,9 @@ body {
  }
  .about-me {
   line-height: 1.8;
-  font-size: 25px;
+  font-size: 21px;
    margin-left: 50px;
-   width: 1100px;
+   width: 900px;
    color: #26415E;
  }
  .aboutme-h1 {
@@ -72,7 +72,7 @@ body {
  }
  .project-sec {
   margin-left: 230px;
-  width: 1200px;
+  width: 1000px;
  }
  .project-div {
   display: flex;
@@ -87,16 +87,16 @@ body {
   padding-top: 10px;
  }
  .div-h31 {
-  width: 550px;
+  width: 400px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
   color: white;
     border-radius: 7px;
     background-color: white;
-    height: 750px;
+    height: 600px;
     gap: 10px;
  }
  .div-h32 {
-  width: 500px; 
+  width: 400px; 
   margin-right: 20px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
   border-radius: 7px;
@@ -111,7 +111,7 @@ color: white;
 padding-top: 20px;
 margin-left: 80px;
 height: max-content;
-width: 380px;
+width: 250px;
 }
 .contact-div {
   display: flex;
@@ -122,7 +122,7 @@ width: 380px;
   margin-top: 50px;
    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
    border-radius: 10px;
-   width: 1200px;
+   width: 1000px;
     margin-left: 230px;
     height: 230px;
 }
@@ -174,8 +174,11 @@ margin-bottom: 0;
 .mini-image {
   background-color: white;
   height: 200px;}
+  .image-skills {
+    height: 150px;
+  }
   .skill-sec {
-    width: 1200px;
+    width: 1000px;
     margin-left: 230px;
   }
   .skill-h1 {
@@ -185,13 +188,15 @@ margin-bottom: 0;
   }
   .place-holder {
     color: white;
-    margin-left: 500px;
+    margin-left: 400px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
     padding-left: 60px;
-    width: 800px;
+    width: 600px;
+    height: 800px;
   }
   .contact-div2 {
-    margin-left: 230px;
+    margin-bottom: 10px;
+    margin-left: 200px;
     font-size: 40px;
   }
   .place-p {
